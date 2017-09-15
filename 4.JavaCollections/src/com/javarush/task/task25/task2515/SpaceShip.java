@@ -28,6 +28,8 @@ public class SpaceShip extends BaseObject {
         dx = -1;
     }
 
+    public  void test(){}
+
     /**
      * Устанавливаем вектор движения вправо
      */
