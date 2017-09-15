@@ -59,6 +59,8 @@ public class Space {
 
     }
 
+    public void test(){}
+
     public static Space game;
 
     public static void main(String[] args){}
