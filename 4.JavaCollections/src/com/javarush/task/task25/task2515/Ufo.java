@@ -6,4 +6,6 @@ public class Ufo extends BaseObject {
     }
 
     //sdfsdfsd
+
+    public void check(){}
 }
