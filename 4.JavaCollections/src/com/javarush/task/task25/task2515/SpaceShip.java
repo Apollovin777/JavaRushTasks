@@ -20,15 +20,12 @@ public class SpaceShip extends BaseObject {
         super(x, y, 3);
     }
 
-
     /**
      * Устанавливаем вектор движения влево
      */
     public void moveLeft() {
         dx = -1;
     }
-
-    public  void test(){}
 
     /**
      * Устанавливаем вектор движения вправо
